@@ -46,5 +46,85 @@
     "susvib_fs4_rel": "susvib/StdOcarina_SusVib_F#4_rel.wav",
     "susvib_gs4": "susvib/StdOcarina_SusVib_G#4.wav",
     "susvib_gs4_rel": "susvib/StdOcarina_SusVib_G#4_rel.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "A3",
+      "sample": "sus_a3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "B3",
+      "sample": "sus_b3",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "susvib_c4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C#4",
+      "sample": "sus_cs4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "sus_d4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D#4",
+      "sample": "susvib_ds4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E4",
+      "sample": "sus_e4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#4",
+      "sample": "sus_fs4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#4",
+      "sample": "sus_gs4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A4",
+      "sample": "sus_a4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#4",
+      "sample": "sus_as4",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "sus_c5",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C#5",
+      "sample": "sus_cs5",
+      "loVel": 0,
+      "hiVel": 127
+    }
+  ]
 }
